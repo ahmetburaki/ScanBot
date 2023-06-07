@@ -9,7 +9,7 @@
     </p>
 </div>
 
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge made-with-go](https://forthebadge.com/images/badges/made-with-go.svg)](https://go.dev/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/ahmetburaki/)
 
 
